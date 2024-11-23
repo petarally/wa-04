@@ -19,5 +19,19 @@
     "prezime": "Manolić",
     "godine_staza": "106",
     "pozicija": "političar"
+  },
+  {
+    "id": "4",
+    "ime": "Pero",
+    "prezime": "Perić",
+    "godine_staza": "25",
+    "pozicija": "programer"
+  },
+  {
+    "id": "5",
+    "ime": "Igor",
+    "prezime": "Ivić",
+    "godine_staza": "7",
+    "pozicija": "programer"
   }
 ]

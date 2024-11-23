@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "ime": "Ivo",
+    "prezime": "Andrić",
+    "godine_staza": "35",
+    "pozicija": "pisac"
+  },
+  {
+    "id": "2",
+    "ime": "Dan",
+    "prezime": "Brown",
+    "godine_staza": "28",
+    "pozicija": "pisac"
+  },
+  {
+    "id": "3",
+    "ime": "Josip",
+    "prezime": "Manolić",
+    "godine_staza": "106",
+    "pozicija": "političar"
+  }
+]
